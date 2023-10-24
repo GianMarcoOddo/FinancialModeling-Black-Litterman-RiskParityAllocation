@@ -9,7 +9,7 @@ This repository hosts a Jupyter Notebook that facilitates a quantitative approac
 
 ## Financial Models
 The project utilizes two main financial models:
-1. **Black-Litterman Model**: Integrates our market views with the equilibrium market views for optimal asset allocation.
+1. **Black-Litterman Model**: Integrates quantitive market views with the equilibrium market views for optimal asset allocation.
 2. **Risk Parity Allocation**: Focuses on allocating funds based on the risk contribution of each asset.
 
 ## Benchmarking
