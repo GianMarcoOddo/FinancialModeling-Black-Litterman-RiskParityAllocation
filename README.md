@@ -1,6 +1,6 @@
 ## Introduction
 This repository hosts a Jupyter Notebook that facilitates a quantitative approach to portfolio management. The primary objective is to achieve a balanced and high-performing portfolio through meticulous fund allocation.
-## **It is important to note that MGS Capital SA is a fictional name, and this project serves educational purposes, primarily as part of a university curriculum.**
+## **It is important to note that this project serves educational purposes, primarily as part of a university curriculum.**
 
 ## Financial Models
 The project utilizes two main financial models:
